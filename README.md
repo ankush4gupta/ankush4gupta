@@ -74,8 +74,8 @@
 " target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/https://leetcode.com/ankush4gupta/" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+<a href="https://leetcode.com/ankush4gupta/" target="_blank">
+<img src=https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
