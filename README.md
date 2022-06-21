@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+</div>   -->
   
 <h1 align="center">👋, I'm Ankush Gupta</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
@@ -41,8 +41,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankush4gupta&show_icons=true&locale=en&layout=compact" alt="ankush4gupta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankush4gupta&show_icons=true&locale=en" alt="ankush4gupta" /></p>
-<h2 align="center">Contribution Graph 📊</h2>
+<!-- <h2 align="center">Contribution Graph 📊</h2> -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ankush4gupta&theme=chartreuse-white" />
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=ankush4gupta&theme=chartreuse-white" /> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankush4gupta&" alt="ankush4gupta" /></p>
