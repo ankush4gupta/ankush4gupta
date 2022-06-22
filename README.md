@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankush4gupta" alt="ankush4gupta" /></a> </p>
 
-- 🔭 I’m currently working on [Bebodywise](https://github.com/ankush4gupta/Bebodywise-Clone)
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning **React** -->
 
 - 📝 My blog posts on [https://medium.com/@ankush4gupta](https://medium.com/@ankush4gupta)
 
